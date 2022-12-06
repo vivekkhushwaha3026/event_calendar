@@ -1,0 +1,77 @@
+.md-recurring-event-editor-popup .md-recurrence-input .mbsc-textfield-wrapper {
+  display: inline-block;
+  margin: 3px;
+  z-index: 3;
+  line-height: normal;
+}
+
+.md-recurring-event-editor-popup .md-recurrence-input .mbsc-textfield {
+  width: 140px;
+  height: 32px;
+}
+
+.md-recurring-event-editor-popup .md-recurrence-input-nr .mbsc-textfield {
+  width: 90px;
+}
+
+.md-recurring-event-editor-popup .md-recurrence-input .mbsc-select-icon {
+  top: 50%;
+  height: 1.5em;
+  margin-top: -0.75em;
+}
+
+.mbsc-ios.mbsc-popup-pointer .mbsc-popup-body-round {
+  background-color: #000000;
+  border: 1px solid #ffffff;
+}
+.mbsc-ios.mbsc-label,
+.mbsc-ios.mbsc-textfield {
+  color: #ffffff !important;
+}
+.mbsc-popup-content .mbsc-form-group {
+  background-color: #000000;
+}
+
+.mbsc-calendar-button.mbsc-button.mbsc-reset {
+  margin: 8px !important;
+}
+
+.mbsc-ios.mbsc-calendar-button-today {
+  padding: 2px 16px !important;
+}
+
+.mbsc-ios.mbsc-button-flat {
+  color: #ffffff !important;
+  background-color: #437be1 !important;
+}
+
+.mbsc-ios.mbsc-textfield-wrapper-underline {
+  background-color: #000000 !important;
+}
+.mbsc-ios.mbsc-select {
+  background-color: #000000 !important;
+}
+.mbsc-ios.mbsc-form-control-wrapper {
+  background-color: #000000 !important;
+}
+
+.md-recurrence-options {
+  padding: 0 1em;
+  margin: 1em 0;
+}
+
+.md-recurrence-ends {
+  padding: 0 1em;
+  margin: 1.25em 0 -1.25em 0;
+}
+
+.md-recurrence-desc {
+  font-size: 12px;
+  font-weight: normal;
+  color: #555;
+  margin: 1em 0;
+}
+
+.md-hide-elm {
+  display: none;
+}
